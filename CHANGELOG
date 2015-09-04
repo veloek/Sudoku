@@ -1,0 +1,14 @@
+*** VERSION 0.10
+- Initial beta release
+
+*** VERSION 0.15
+- Fixed hanging loop on createGame
+- Added retry possibility
+
+*** VERSION 0.20
+- Added status bar
+- Fixed retry bug that happened after finishGame
+- Fixed finishGame bug by using gameOriginal instead of game
+
+*** VERSION 0.25
+- Added highscore list

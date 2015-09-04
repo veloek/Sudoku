@@ -1,0 +1,15 @@
+*** TODO LIST BY PRIORITY:
+
+1. Global highscore list
+        - Communication with web services
+
+2. Network mode:
+	- Two or more players use the same board
+	- The one with the most inputted numbers win
+	- When a player is inputting numbers, the cell is closed for the others
+	- If a player corrects another player, there must be some kind of points
+	  reduction for the player with the wrong input.
+
+3. Sound effects:
+	- Applause or some kind of celebration when reach high score list
+	- Wii "ooh"-sound on wrong answer

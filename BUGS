@@ -1,0 +1,3 @@
+*** KNOWN BUGS:
+
+- Number chooser goes out of frame's bounds on bottom row
